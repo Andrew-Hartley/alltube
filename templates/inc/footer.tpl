@@ -1,3 +1,5 @@
+<!-- Maybe we dont need this VOID -->
+
 </div>
 <footer class="small-font">
     <div class="footer_wrapper">
